@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JEONG%20YEONJUN&fontSize=50&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WELCOME&fontSize=50&fontAlignY=40)
 
   <div>
       <h3>📮 Contacts 📮</h3>
